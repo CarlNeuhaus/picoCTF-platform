@@ -23,6 +23,8 @@ if [ -f /opt/hacksports/config.json ]; then
 fi
 
 # Install Dependencies
+apt-get install -y libffi-dev
+apt-get install -y libssl-dev
 apt-get install -y dpkg dpkg-dev fakeroot python3 python3-pip socat nginx php5-cli gcc-multilib shellinabox
 
 # Install uwsgi and plugins for shell server

@@ -7,6 +7,8 @@ apt-get -y update
 apt-get -y upgrade
 
 # CTF-Platform Dependencies
+apt-get -y install python-dev
+apt-get -y install libffi-dev
 apt-get -y install python3-pip nginx mongodb gunicorn git libzmq-dev nodejs-legacy npm
 apt-get -y install ruby-dev dos2unix tmux jekyll phantomjs monit firefox xvfb
 
