@@ -3,4 +3,4 @@
 	url = https://github.com/carlneuhaus/picoCTF-web.git 
 [submodule "picoCTF-shell-manager"]
 	path = picoCTF-shell-manager
-	url = https://github.com/neuhaus/picoCTF-shell-manager
+	url = https://github.com/carlneuhaus/picoCTF-shell-manager
