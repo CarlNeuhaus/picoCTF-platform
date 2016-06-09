@@ -7,7 +7,7 @@ Additional documentation can be found on the [wiki](https://github.com/picoCTF/p
 Quick Start
 ------------
 
-1. git clone --recursive https://github.com/picoCTF/picoCTF-platform.git
+1. git clone --recursive https://github.com/carlneuhaus/picoCTF-platform.git
 2. cd picoCTF-platform
 3. vagrant up
 4. Navigate to http://192.168.2.2/
