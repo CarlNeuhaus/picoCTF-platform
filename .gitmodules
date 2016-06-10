@@ -1,6 +1,6 @@
 [submodule "picoCTF-web"]
 	path = picoCTF-web
-	url = https://github.com/carlneuhaus/picoCTF-web.git 
+	url = https://github.com/carlneuhaus/picoCTF-web
 [submodule "picoCTF-shell-manager"]
 	path = picoCTF-shell-manager
 	url = https://github.com/carlneuhaus/picoCTF-shell-manager
